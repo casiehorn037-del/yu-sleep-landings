@@ -1,8 +1,0 @@
-{
-  "name": "yu-sleep-landings",
-  "version": "1.0.0",
-  "description": "YU Sleep Landing Pages",
-  "scripts": {
-    "build": "echo 'Static site - no build needed'"
-  }
-}
